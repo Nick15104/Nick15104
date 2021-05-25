@@ -5,6 +5,6 @@
 - 📫 How to reach me ... You don't.
 
 <!---
-Nick15104/Nick15104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Nick15104/Nick15104 is a ✨ personal ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+You can click the Preview link to take a look at my changes.
 --->
